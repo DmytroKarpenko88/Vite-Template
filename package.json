@@ -1,5 +1,6 @@
 {
   "name": "my-react-app",
+  "homepage": "https://dmytrokarpenko88.github.io/Vite-Template",
   "private": true,
   "version": "0.0.0",
   "type": "module",
